@@ -36,4 +36,4 @@ This wiki summarizes the key talks, themes, and takeaways from PEGS Boston 2026.
 
 ---
 
-*Wiki built from conference presentation PDFs. Last updated: May 2026.*
+*Last updated: May 2026.*
