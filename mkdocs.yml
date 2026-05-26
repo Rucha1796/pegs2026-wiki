@@ -1,0 +1,41 @@
+site_name: PEGS Boston 2026 — Conference Wiki
+site_description: Summaries and key takeaways from the 22nd Annual Protein & Antibody Engineering Summit, Boston, May 2026
+site_author: Rucha Deo
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Topics:
+    - AI/ML for Biologic Design: 01_AI_ML_Biologic_Design.md
+    - Protein Language Models: 02_Protein_Language_Models.md
+    - Structure Prediction: 03_Structure_Prediction.md
+    - De Novo Protein Design: 04_De_Novo_Protein_Design.md
+    - Antibody Developability: 05_Antibody_Developability.md
+    - Immunogenicity & Epitopes: 06_Immunogenicity_Epitopes.md
+    - Nanobodies & VHH: 07_Nanobodies_VHH.md
+    - Glycoengineering & Conjugates: 08_Glycoengineering_Conjugates.md
+    - Computational Tools & Databases: 09_Computational_Tools_Databases.md
+    - Surface Proteomics & Target Discovery: 10_Surface_Proteomics_Target_Discovery.md
+    - Analytical Characterization: 11_Analytical_Characterization.md
